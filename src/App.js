@@ -12,7 +12,7 @@ const App = (props) => {
   //   }
 
   // } 
-
+  console.log('1')
   return (
     <div className='test'>
       <header className='test-header'>
