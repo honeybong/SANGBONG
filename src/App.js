@@ -20,6 +20,7 @@ const App = (props) => {
   console.log('6')
   console.log('7')
   console.log('9')
+  console.log('10')
   return (
     <div className='test'>
       <header className='test-header'>
