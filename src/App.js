@@ -13,6 +13,7 @@ const App = (props) => {
 
   // } 
   console.log('1')
+  console.log('2')
   return (
     <div className='test'>
       <header className='test-header'>
