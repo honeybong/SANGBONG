@@ -1,0 +1,11 @@
+.test {}
+.test-header {
+  text-align: center;
+}
+.test-body {
+  text-align: center;
+  .scheduler {
+    width: 80%;
+    border: 1px solid black;
+  }
+}

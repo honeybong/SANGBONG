@@ -62,11 +62,6 @@ const App = (props) => {
           </table>
         </div>
       </body>
-      <footer className='test-footer'>
-        <div className='test-mes'>
-          블라블라
-        </div>
-      </footer>
     </div>
   );
 }

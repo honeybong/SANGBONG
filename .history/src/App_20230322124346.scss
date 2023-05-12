@@ -1,0 +1,21 @@
+.test {}
+.test-header {
+  .header-title {
+    background-color: aqua;
+    text-align: center;
+    display: flex;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+  }
+}
+.test-body {
+  .body-container {
+    height: 1500px;
+    width: 100%;
+    .scheduler {
+      height: 20px;
+      border: 1px solid black;
+    }
+  }
+}

@@ -1,0 +1,18 @@
+.test {}
+.test-header {
+  .header-title {
+    background-color: red;
+    text-align: center;
+    display: flex;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+  }
+}
+.test-body {
+  text-align: center;
+  .scheduler {
+    width: 80%;
+    border: 1px solid black;
+  }
+}

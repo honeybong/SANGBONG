@@ -1,0 +1,15 @@
+.test {}
+.test-header {
+  .header-title {
+    text-align: center;
+    position: absolute;
+    height: 50px;
+  }
+}
+.test-body {
+  text-align: center;
+  .scheduler {
+    width: 80%;
+    border: 1px solid black;
+  }
+}
